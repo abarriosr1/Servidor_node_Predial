@@ -1,0 +1,15 @@
+{
+  "name": "prueba_mongo",
+  "version": "1.0.0",
+  "description": "Prueba de servidor node para conectar a MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angel Barrios",
+  "license": "SEE LICENSE IN FILE_LICENSE",
+  "dependencies": {
+    "express": "^4.19.2",
+    "git": "^0.1.5"
+  }
+}
